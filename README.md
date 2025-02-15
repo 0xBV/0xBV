@@ -41,7 +41,6 @@ My learning and experiences with different tools in cybersecurity as well as imp
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/NETWORK%2B-blue" />
 <img src="https://img.shields.io/badge/SECURITY%2B-red" />
