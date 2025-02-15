@@ -4,12 +4,10 @@
 I'm a recent Cybersecurity graduate and IT Specialist with an interest in technology regarding information security.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My learning and experiences with different tools in cybersecurity as well as implementing fundamental cybersecurity tools makes me excited to transition to this field.  
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -21,7 +19,6 @@ My learning and experiences with different tools in cybersecurity as well as imp
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -46,11 +43,12 @@ My learning and experiences with different tools in cybersecurity as well as imp
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/NETWORK%2B-blue" />
+<img src="https://img.shields.io/badge/SECURITY%2B-red" />
 <img src="https://img.shields.io/badge/CYSA%2B-red" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/PENTEST%2B-red" />
+<img src="https://img.shields.io/badge/SECURITYX(CASP%2B)-red" />
+<img src="https://img.shields.io/badge/Associate%20of%20ISC2-darkgreen" />
 </div>
 
 ## Projects
