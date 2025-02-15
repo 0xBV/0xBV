@@ -1,14 +1,12 @@
 # Hello, I'm Bunthai (Thai)
 <a href="https://linkedin.com/in/bunthai-vong/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 I'm a recent Cybersecurity graduate and IT Specialist with an interest in technology regarding information security.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My learning and experiences with different tools in cybersecurity as well as implementing fundamental cybersecurity tools makes me excited to transition to this field.
+My learning and experiences with different tools in cybersecurity as well as implementing fundamental cybersecurity tools makes me excited to transition to this field.  
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
