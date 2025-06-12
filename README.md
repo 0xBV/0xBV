@@ -5,7 +5,7 @@ I'm a recent Cybersecurity graduate and senior IT specialist interested in navig
 
 ## Objective
 
-My educational journey and experiences with varying cybersecurity tools aligns with my goal to be a continual learner in the ever changing cybersecurity field.  My unique perspective as well as my pro-active approach to deep, practical learning drives me in my journey into becoming a security professional and a chance to bring unparalelled value to a team.  
+My educational journey and experiences with varying cybersecurity tools aligns with my goal to be a continual learner in the ever changing cybersecurity field.  My unique perspective as well as my pro-active approach to deep, practical learning drives me in my journey into becoming a security professional and a chance to bring unparalelled value to any team.  
 
 ## Skills
 
