@@ -1,11 +1,11 @@
-# Hello, I'm Bunthai (Thai)
+# 👋 Hello, I'm Bunthai (Thai) and welcome to my Cybersecurity portfolio
 <a href="https://linkedin.com/in/bunthai-vong/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a recent Cybersecurity graduate and IT Specialist with an interest in technology regarding information security.
+I'm a recent Cybersecurity graduate and senior IT specialist interested in navigating the complex world of cybersecurity.
 
 ## Objective
 
-My learning and experiences with different tools in cybersecurity as well as implementing fundamental cybersecurity tools makes me excited to transition to this field.  
+My educational journey and experiences with varying cybersecurity tools aligns with my goal to be a continual learner in the ever changing cybersecurity field.  My unique perspective as well as my pro-active approach to deep, practical learning drives me in my journey into becoming a security professional and a chance to bring unparalelled value to a team.  
 
 ## Skills
 
