@@ -39,7 +39,7 @@ My educational journey and hands-on experience with a variety of cybersecurity t
 
 ## Certifications
 <div>
-<a href="https://www.credly.com/badges/64c0d64b-a667-4a16-8e65-1de7e7453025"><img src="https://img.shields.io/badge/NETWORK%2B-blue" /></a>
+<a href="https://www.credly.com/badges/df20b167-b399-4d29-818d-2ebc002dcab7"><img src="https://img.shields.io/badge/NETWORK%2B-blue" /></a>
 <a href="https://www.credly.com/badges/64b8db8f-65e3-483c-aed0-6e8916eb1210"><img src="https://img.shields.io/badge/SECURITY%2B-red" /></a>
 <a href="https://www.credly.com/badges/224a0a18-d1a2-4890-baae-cb5ecdd18b58"><img src="https://img.shields.io/badge/CYSA%2B-red" /></a>
 <a href="https://www.credly.com/badges/a6472907-2e48-4024-b5b3-d865fb4b28a9"><img src="https://img.shields.io/badge/PENTEST%2B-red" /></a>
