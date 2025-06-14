@@ -12,14 +12,14 @@ My educational journey and hands-on experience with a variety of cybersecurity t
 - 🎓Incoming Master of Science in Computer Science student at Georgia Institute of Technology
 - 🌱Committed to continual growth, open to different perspectives, and always fostering an environment of open communication
 
-## Skills
+## 🔐 Featured Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Vulnerability Management | <a href="https://github.com/0xBV/Vulnerability-Management">Vulnerability Management</a>|
 | Enterprise 101 Lab | In Progress |
 
-## Tools
+## 🔍 Tools
 
 ### Network
 <div>
