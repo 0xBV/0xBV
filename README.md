@@ -2,13 +2,14 @@
 <a href="https://linkedin.com/in/bunthai-vong/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Cybersecurity graduate and Senior IT specialist - Team Lead, driven in navigating the complex, dynamic world of cybersecurity.
----
 
 ## 🎯 My Focus
 
 My educational journey and hands-on experience with a variety of cybersecurity tools reflect my commitment to continuous learning in the continually evolving cybersecurity field. My unique perspective, paired with a proactive approach to in-depth, practical learning, fuels my growth as a technology professional. I strive to bring exceptional value to any team. 
 
 ## ⚡About Me
+- yes
+
 
 ## Skills
 
