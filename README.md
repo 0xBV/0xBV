@@ -46,7 +46,3 @@ My educational journey and hands-on experience with a variety of cybersecurity t
 <img src="https://img.shields.io/badge/SECURITYX(CASP%2B)-red" />
 <img src="https://img.shields.io/badge/Associate%20of%20ISC2-darkgreen" />
 </div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
