@@ -11,7 +11,7 @@ My educational journey and hands-on experience with a variety of cybersecurity t
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Vulnerability Management program implementation | <a href="https://github.com/0xBV/Vulnerability-Management">Vulnerability Management</a>|
+| Vulnerability Management | <a href="https://github.com/0xBV/Vulnerability-Management">Vulnerability Management</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
