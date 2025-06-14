@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Bunthai and welcome to my Cyber portfolio 🛡️
 <a href="https://linkedin.com/in/bunthai-vong/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a technology professional dedicated to protecting digital assets and solving real-world security problems.  I have a deepening expertise in cybersecurity and I aim to empower organizations to strengthen their resilience, minimize risk, and help make informed security-first decisions to strengthen their overall security posture.
+I'm a technology professional dedicated to protecting digital assets and addressing real-world security challenges. With a growing expertise in cybersecurity, I strive to help organizations enhance resilience, reduce risk, and make informed, security-first decisions that improve their overall security posture.
 
 ## 🎯 My Focus
 
