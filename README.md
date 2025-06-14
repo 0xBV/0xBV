@@ -17,7 +17,7 @@ My educational journey and hands-on experience with a variety of cybersecurity t
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Vulnerability Management | <a href="https://github.com/0xBV/Vulnerability-Management">Vulnerability Management</a>|
-| Enterprise 101 Lab | In Progress |
+| Threat Detection | In Progress |
 
 ## 🔍 Tools
 
