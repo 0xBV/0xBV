@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Bunthai and welcome to my Cyber portfolio 🛡️
 <a href="https://linkedin.com/in/bunthai-vong/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Recent Cybersecurity graduate and Senior IT specialist interested and motivated in navigating the complex world of cybersecurity.
+Recent Cybersecurity graduate and Team Lead Senior IT specialist interested and motivated in navigating the complex world of cybersecurity.
 
 ## Objective
 
