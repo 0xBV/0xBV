@@ -8,8 +8,9 @@ Cybersecurity graduate and Senior IT specialist - Team Lead, driven in navigatin
 My educational journey and hands-on experience with a variety of cybersecurity tools reflect my commitment to continuous learning in the continually evolving cybersecurity field. My unique perspective, paired with a proactive approach to in-depth, practical learning, fuels my growth as a technology professional. I strive to bring exceptional value to any team. 
 
 ## ⚡About Me
-- yes
-
+- 🛡️Currently focused on blue-team security, risk management, threat detection, and cloud security
+- 🎓Incoming Master of Science in Computer Science student at Georgia Institute of Technology
+- 🌱Committed to continual growth, open to different perspectives, and always fostering an environment of open communication
 
 ## Skills
 
