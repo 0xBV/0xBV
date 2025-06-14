@@ -1,11 +1,11 @@
 # 👋 Hello, I'm Bunthai and welcome to my Cyber portfolio 🛡️
 <a href="https://linkedin.com/in/bunthai-vong/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Recent Cybersecurity graduate and Team Lead Senior IT specialist interested and motivated in navigating the complex world of cybersecurity.
+Cybersecurity graduate and Senior IT specialist - Team Lead, driven in navigating the complex, dynamic world of cybersecurity.
 
 ## Objective
 
-My educational journey and experiences with varying cybersecurity tools aligns with my goal to be a continual learner in the ever changing cybersecurity field.  My unique perspective as well as my pro-active approach to deep, practical learning drives me in my journey into becoming a security professional and a chance to bring unparalelled value to any team.  
+My educational journey and hands-on experience with a variety of cybersecurity tools reflect my commitment to continuous learning in the continually evolving cybersecurity field. My unique perspective, paired with a proactive approach to in-depth, practical learning, fuels my growth as a security professional. I strive to bring exceptional value to any team. 
 
 ## Skills
 
