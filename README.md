@@ -12,7 +12,7 @@ My educational journey and hands-on experience with a variety of cybersecurity t
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Vulnerability Management | <a href="https://github.com/0xBV/Vulnerability-Management">Vulnerability Management</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Enterprise 101 Lab | <a href="">In Progress</a>|
 
 ## Tools
 
