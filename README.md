@@ -5,7 +5,7 @@ I'm a technology professional dedicated to protecting digital assets and address
 
 ## 🎯 My Focus
 
-My educational journey and hands-on experience with a variety of cybersecurity tools reflect my commitment to continuous learning in the continually evolving cybersecurity field. My unique perspective, blended with a proactive approach to in-depth, practical learning, fuels my growth as a technology professional. I strive to bring exceptional value to any team. 
+My educational journey and hands-on experience with a variety of cybersecurity tools reflect my deep commitment to continuous learning in the ever evolving cybersecurity field. My unique perspective, blended with a proactive approach to in-depth, practical learning, fuels my growth as a technology professional. I strive to bring exceptional value to any team. 
 
 ## ⚡About Me
 - 🛡️Currently focused on blue-team security, risk management, threat detection, and cloud security
