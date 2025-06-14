@@ -5,7 +5,7 @@ Cybersecurity graduate and Senior IT specialist - Team Lead, driven in navigatin
 
 ## Objective
 
-My educational journey and hands-on experience with a variety of cybersecurity tools reflect my commitment to continuous learning in the continually evolving cybersecurity field. My unique perspective, paired with a proactive approach to in-depth, practical learning, fuels my growth as a security professional. I strive to bring exceptional value to any team. 
+My educational journey and hands-on experience with a variety of cybersecurity tools reflect my commitment to continuous learning in the continually evolving cybersecurity field. My unique perspective, paired with a proactive approach to in-depth, practical learning, fuels my growth as a technology professional. I strive to bring exceptional value to any team. 
 
 ## Skills
 
