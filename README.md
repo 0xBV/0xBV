@@ -8,8 +8,8 @@ I'm a technology professional dedicated to protecting digital assets and address
 My educational journey and hands-on experience with a variety of cybersecurity tools reflect my deep commitment to continuous learning in the ever evolving cybersecurity field. My unique perspective, blended with a proactive approach to in-depth, practical learning, fuels my growth as a technology professional. I strive to bring exceptional value to any team. 
 
 ## ⚡About Me
-- 🛡️Currently focused on blue-team security, risk management, threat detection, and cloud security
-- 🎓Incoming Master of Science in Computer Science student at Georgia Institute of Technology
+- 🛡️Currently focused on Blue-Team Security, Security Automation, Risk Management, and Cloud Security
+- 🎓I am an incoming Master of Science in Computer Science student at Georgia Institute of Technology
 - 🌱Committed to continual growth, open to different perspectives, and always fostering an environment of open communication
 - 💪Exercising and weightlifting are among my favorite hobbies, helping me build the discipline and focus that carry over into learning, problem-solving, and everyday challenges
 
