@@ -18,7 +18,7 @@ My educational journey and hands-on experience with a variety of cybersecurity t
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Vulnerability Management | <a href="https://github.com/0xBV/Vulnerability-Management">Vulnerability Management</a>|
-| SOAR-EDR Automation | In Progress |
+| Security Automation | <a href="https://github.com/0xBV/Soar-EDR"> SOAR-EDR Project |
 
 ## 🔍 Tools
 
