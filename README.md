@@ -9,7 +9,6 @@ My educational journey and hands-on experience with a variety of cybersecurity t
 
 ## ⚡About Me
 - 🛡️Currently focused on Blue-Team Security, Security Automation, Risk Management, and Cloud Security
-- 🎓I am an incoming Master of Science in Computer Science student at Georgia Institute of Technology
 - 🌱Committed to continual growth, open to different perspectives, and always fostering an environment of open communication
 - 💪Exercising and weightlifting are among my favorite hobbies, helping me build the discipline and focus that carry over into learning, problem-solving, and everyday challenges
 
