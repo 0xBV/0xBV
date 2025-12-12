@@ -19,25 +19,6 @@ My educational journey and hands-on experience with a variety of cybersecurity t
 | Vulnerability Management | <a href="https://github.com/0xBV/Vulnerability-Management">Vulnerability Management</a>|
 | Security Automation | <a href="https://github.com/0xBV/Soar-EDR"> SOAR-EDR Project |
 
-## 🔍 Tools
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
 ## Certifications
 <div>
 <a href="https://www.credly.com/badges/df20b167-b399-4d29-818d-2ebc002dcab7"><img src="https://img.shields.io/badge/NETWORK%2B-blue" /></a>
